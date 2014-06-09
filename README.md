@@ -1,3 +1,3 @@
-datasciencecoursera
+DataScienceCoursera
 ===================
 Test repo
